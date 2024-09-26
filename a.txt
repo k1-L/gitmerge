@@ -1,2 +1,6 @@
 aaa
+<<<<<<< HEAD
 zzz
+=======
+yyy
+>>>>>>> deve2
